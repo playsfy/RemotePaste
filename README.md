@@ -2,4 +2,6 @@
 
 ## We are devloping Cross plateform apps such as windows, mac, linux, android, ios, and web.
 
-## [Download ClipUp Destop Application](https://github.com/clipup/clipup/releases)
+### Web Demo : [Clipup](https://clinext.herokuapp.com)
+
+## [Download ClipUp Destop Application](https://github.com/clipup/clipup/releases){ready windows and linux distributions}
