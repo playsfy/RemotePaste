@@ -4,4 +4,5 @@
 
 ### Web Demo : [Clipup](https://clinext.herokuapp.com)
 
-## [Download ClipUp Destop Application](https://github.com/clipup/clipup/releases){ready windows and linux distributions}
+## [Download ClipUp Destop Application](https://github.com/clipup/clipup/releases) {ready windows and linux distributions}
+## [Download ClipUp Mobile Application](#) {Ongoing Development}
